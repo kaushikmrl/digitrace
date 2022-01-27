@@ -2,7 +2,7 @@
 Simple, Easy, Fast application to make your invoice payments using Crypto.
 
 ## Description
-An invoice management system based on Solidity, truffle, web3.js and ganache.
+Digitrace is a Blockchain based invoice management created using  Solidity, truffle, node.js , ganache and ganache
 
 ## Dependencies
 * Node.js
