@@ -14,7 +14,7 @@ An invoice management system based on Solidity, truffle, web3.js and ganache.
 
 * Clone the digitrace repo location
 ```
-git clone https://github.com/ramvittalkumar/digitrace.git
+git clone https://github.com/kaushikmrl/digitrace.git
 ```
 * Open the digitrace folder into Visual Studio Code (or your preferred editor)
 * Truffle compile the smart contracts 
